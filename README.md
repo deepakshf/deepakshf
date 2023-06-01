@@ -1,4 +1,4 @@
-# Hi, I am Deepak.
+# Hi, I am Deepak
 # 💫 About Me:
 I am a motivated and enthusiastic student pursuing a degree in data science. I have a strong curiosity for understanding the hidden insights within data and a deep passion for leveraging data to solve complex problems. I am eager to apply my knowledge and skills in real-world scenarios. I believe that data science has the power to transform industries and make a positive impact on society. It excites me to think about the endless possibilities of using data to drive informed decisions, improve processes, and develop innovative solutions.
 
